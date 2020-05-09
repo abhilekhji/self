@@ -1,0 +1,42 @@
+/*****************Element Selector***************/
+body {
+  background-color: #f3e1e1;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  /*  background-color: #f1d1d1; */
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/********************ID Selector********************/
+#top-cloud {
+  width: 15%;
+  position: absolute;
+  right: 250px;
+  top: 10px;
+}
+
+#bottom-cloud {
+  width: 15%;
+  position: absolute;
+  left: 250px;
+}
+#Profile-Pic{
+  border-radius: 100%;
+}
